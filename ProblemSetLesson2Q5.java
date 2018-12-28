@@ -12,7 +12,7 @@ public class ProblemSetLesson2Q5 {
 		
 		}
 		
-		if (time >= 12 && time < 20 ) {
+		else if (time >= 12 && time < 20 ) {
 			System.out.println ("daytime");
 		
 	}
